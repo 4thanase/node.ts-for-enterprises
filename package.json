@@ -1,0 +1,28 @@
+{
+  "name": "node.ts-for-enterprises",
+  "version": "1.0.0",
+  "description": "node and typscript for enterprise developper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4thanase/node.ts-for-enterprises.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "enterprise",
+    "base_architecture"
+  ],
+  "author": "4thanase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4thanase/node.ts-for-enterprises/issues"
+  },
+  "homepage": "https://github.com/4thanase/node.ts-for-enterprises#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
